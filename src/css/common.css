@@ -1,0 +1,26 @@
+[data-action="start"] {
+  background-color: rgb(6, 255, 6); /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  margin-right: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 700;
+  border-radius: 4px;
+}
+
+[data-action="stop"] {
+  background-color: red; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 700;
+  border-radius: 4px;
+}
